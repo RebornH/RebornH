@@ -1,4 +1,4 @@
-Hi My name is Egor 🙌
+Hi, my name is Egor!🙌
 ======================
 Python Backend Developer
 ------------------
